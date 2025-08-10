@@ -1,4 +1,4 @@
-# HI, I am ARYAN CHAUHAN
+# Hi, I am ARYAN CHAUHAN
 A MERN STACK DEVELOPER
 
 # 💫 About Me:
