@@ -1,8 +1,8 @@
-# HI, iam ARYAN CHAUHAN
+# HI, I am ARYAN CHAUHAN
 A MERN STACK DEVELOPER
 
 # 💫 About Me:
-🔭 I’m currently working on: CodebaseX<br>🌱 I’m currently learning: MERN STACK<br>👯 I’m looking to collaborate on: codbaseX repo => https://github.com/aryanchauhan1234/codbaseX<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: aryan.chauhan.ug22@nsut.ac.in
+🔭 I’m currently working on: **CodebaseX**<br>🌱 I’m currently learning:**MERN STACK**<br>👯 I’m looking to collaborate on: codbaseX repo => https://github.com/aryanchauhan1234/codbaseX<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: aryan.chauhan.ug22@nsut.ac.in
 
 
 ## 🌐 Socials:
